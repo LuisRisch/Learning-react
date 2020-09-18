@@ -1,0 +1,13 @@
+.User-Information-Container{    
+    background-color:#FFF8DC; 
+    margin: 9px auto; 
+    padding: 0.8em; 
+    width: 40%;  
+    box-shadow: 1px 3.5px 1px #4F4F4F; 
+    border: 1px solid #4F4F4F;
+
+}  
+#UserName-Layout{
+    color: black;
+    font-weight: 500; 
+}
